@@ -17,20 +17,20 @@
 
 Clone:	  git clone https://github.com/MaximJulien/FA12_1_Projekt_2022_2023.git 
 
-Commit: 	git add. -> git commit –m “<Commit-Nachricht>” 
+Commit: 	git add. -> git commit –m “\<Commit-Nachricht\>” 
 
 Push:	    git push 
 
-Rebase:	  git rebase <name> 
+Rebase:	  git rebase \<name\>
 
-Merge:	  git merge <name> 
+Merge:	  git merge \<name\> 
 
 Fetch: 	  git fetch 
 
 Pull:		  git pull 
 
-Branch erstellen: 	git branch <name> 
+Branch erstellen: 	git branch \<name\> 
 
-Branch auschecken: 	git checkout <name> 
+Branch auschecken: 	git checkout \<name\> 
 
-Cherry Pick:		git cherry-pick <name> [--no-commit] 
+Cherry Pick:		git cherry-pick \<name\> [--no-commit] 
